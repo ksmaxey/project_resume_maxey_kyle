@@ -39,6 +39,10 @@ header div p {
     color: #c0c0c0;
 }
 
+article {
+    padding-bottom: 10px;
+}
+
 h2 {
     font-family: bold;
     font-size: 2.5em;
@@ -50,6 +54,7 @@ h3 {
     font-size: 1.5em;
     color: #ff7f50;
     letter-spacing: 0.5px;
+    text-decoration: underline;
 }
 
 h4 {
@@ -61,4 +66,8 @@ h4 {
 
 dd p {
     font-family: 'Catamaran', sans-serif;
+}
+
+#education dd {
+    line-height: 0.1;
 }
