@@ -1,4 +1,12 @@
+body {
+    background-color: #efefef;
+}
+
 img {
     width: 100%;
     max-width: 1000px;
+}
+
+header {
+    background-color: #ff7f50;
 }
