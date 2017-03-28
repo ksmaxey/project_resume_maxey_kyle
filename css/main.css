@@ -2,11 +2,22 @@ body {
     background-color: #efefef;
 }
 
+@font-face {
+    font-family: light;
+    src: url('../font/bebaslight.ttf');
+}
+
+@font-face {
+    font-family: bold;
+    src: url('../font/bebasbold.ttf');
+}
+
 img {
     width: 100%;
     max-width: 1000px;
 }
 
 header {
-    background-color: #ff7f50;
+    background-color: #df744a;
+    font-family: bold;
 }
