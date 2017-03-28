@@ -38,3 +38,13 @@ header div {
 header div p {
     color: #c0c0c0;
 }
+
+h2 {
+    font-family: bold;
+    font-size: 2.5em;
+}
+
+h3 {
+    font-family: bold;
+    font-size: 1.5em;
+}
