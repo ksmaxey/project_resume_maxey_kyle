@@ -17,6 +17,12 @@ img {
     max-width: 1000px;
 }
 
+#me {
+    -moz-box-shadow: 1px 5px 20px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 1px 5px 20px rgba(0, 0, 0, 0.5);
+    box-shadow: 1px 5px 20px rgba(0, 0, 0, 0.5);
+}
+
 header {
     background-color: #df744a;
     font-family: bold;
@@ -66,6 +72,11 @@ h4 {
 
 dd p {
     font-family: 'Catamaran', sans-serif;
+}
+
+#education {
+    background-color: #caebf2;
+    padding: 10px;
 }
 
 #education dd {
