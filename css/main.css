@@ -20,4 +20,21 @@ img {
 header {
     background-color: #df744a;
     font-family: bold;
+    line-height: 0.1;
+}
+
+#logo {
+    max-width: 25%;
+    padding: 10px;
+}
+
+header div {
+    float: right;
+    width: 60%;
+    font-size: 1.9em;
+    color: #666666;
+}
+
+header div p {
+    color: #c0c0c0;
 }
