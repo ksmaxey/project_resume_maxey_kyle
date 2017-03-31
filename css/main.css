@@ -48,6 +48,7 @@ header div {
 
 header div p {
     color: #c0c0c0;
+    font-size: 1.5em;
 }
 
 article {
@@ -155,7 +156,7 @@ footer {
 
 .type-it {
     font-family: light;
-    font-size: 2em;
-    color: #ff7f50;
+    font-size: 1em;
+    color: white;
     letter-spacing: 2px;
 }
