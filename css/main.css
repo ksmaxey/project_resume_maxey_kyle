@@ -2,6 +2,11 @@ body {
     background-color: #efefef;
 }
 
+.container {
+    padding: 10px;
+    width: 100%;
+}
+
 @font-face {
     font-family: light;
     src: url('../font/bebaslight.ttf');
@@ -116,4 +121,9 @@ dd p {
 
 .warm {
     background-color: #caebf2;
+}
+
+#volunteer {
+    background-color: #caebf2;
+    padding: 10px;
 }
