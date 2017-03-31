@@ -145,3 +145,10 @@ dd p {
     text-decoration: none;
     color: white;
 }
+
+footer {
+    color: #a9a9a9;
+    font-family: bold;
+    font-size: 1.5em;
+    text-align: center;
+}
