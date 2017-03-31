@@ -8,3 +8,7 @@ $(document).ready(function(){
 	});
 
 });
+
+$('.type-it').typeIt({
+    strings: ['Please hire me!']
+  });

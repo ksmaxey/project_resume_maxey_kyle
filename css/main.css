@@ -152,3 +152,10 @@ footer {
     font-size: 1.5em;
     text-align: center;
 }
+
+.type-it {
+    font-family: light;
+    font-size: 2em;
+    color: #ff7f50;
+    letter-spacing: 2px;
+}
