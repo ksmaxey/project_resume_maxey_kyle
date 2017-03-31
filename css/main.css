@@ -132,4 +132,16 @@ dd p {
   font-family: light;
   font-size: 1.2em;
   letter-spacing: 2px;
+  padding-bottom: 5px;
+}
+
+#contact img {
+    max-width: 50px;
+    padding: 5px 5px 0 0;
+}
+
+#contact a,
+#contact a:visited {
+    text-decoration: none;
+    color: white;
 }
