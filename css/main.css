@@ -189,11 +189,6 @@ footer {
 }
 
 @media all and (min-width: 800px) {
-  #me {
-    width: 100%;
-    max-width: 400px;
-  }
-
   header {
     font-size: 1.7em;
   }
@@ -217,5 +212,65 @@ footer {
 
   dd p {
     font-size: 1.2em;
+  }
+}
+
+@media all and (min-width: 1150px) {
+  header {
+    line-height: normal;
+  }
+
+  header h1 {
+    float: left;
+    display: inline-block;
+  }
+
+  #logo {
+    max-width: 100px;
+  }
+
+  #me {
+    display: inline-block;
+    width: 40%;
+    float: left;
+  }
+
+  #work {
+    display: inline-block;
+    width: 50%;
+    float: right;
+  }
+
+  #education {
+    display: inline-block;
+    width: 50%;
+    background-color: #efefef;
+  }
+
+  #volunteer {
+    background-color: #efefef;
+  }
+
+  #contact {
+    text-align: center;
+  }
+
+  .container {
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  h2 {
+    font-size: 2.5em;
+    display: inline-block;
+  }
+
+  h3 {
+    font-size: 1.5em;
+  }
+
+  h4 {
+    font-size: 1.3em;
   }
 }
