@@ -1,132 +1,132 @@
 body {
-    background-color: #efefef;
+  background-color: #efefef;
 }
 
 .container {
-    padding: 10px;
-    width: 100%;
+  padding: 10px;
+  width: 100%;
 }
 
 @font-face {
-    font-family: light;
-    src: url('../font/bebaslight.ttf');
+  font-family: light;
+  src: url('../font/bebaslight.ttf');
 }
 
 @font-face {
-    font-family: bold;
-    src: url('../font/bebasbold.ttf');
+  font-family: bold;
+  src: url('../font/bebasbold.ttf');
 }
 
 img {
-    width: 100%;
-    max-width: 1000px;
+  width: 100%;
+  max-width: 1000px;
 }
 
 #me {
-    -moz-box-shadow: 1px 5px 20px rgba(0, 0, 0, 0.5);
-    -webkit-box-shadow: 1px 5px 20px rgba(0, 0, 0, 0.5);
-    box-shadow: 1px 5px 20px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 1px 5px 20px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 1px 5px 20px rgba(0, 0, 0, 0.5);
+  box-shadow: 1px 5px 20px rgba(0, 0, 0, 0.5);
 }
 
 header {
-    background-color: #df744a;
-    font-family: bold;
-    line-height: 0.1;
+  background-color: #df744a;
+  font-family: bold;
+  line-height: 0.1;
 }
 
 #logo {
-    max-width: 25%;
-    padding: 20px;
+  max-width: 25%;
+  padding: 20px;
 }
 
 header div {
-    float: right;
-    width: 60%;
-    font-size: 1.9em;
-    color: #666666;
+  float: right;
+  width: 60%;
+  font-size: 1.9em;
+  color: #666666;
 }
 
 header div p {
-    color: #c0c0c0;
-    font-size: 1.5em;
+  color: #c0c0c0;
+  font-size: 1.5em;
 }
 
 article {
-    padding-bottom: 10px;
+  padding-bottom: 10px;
 }
 
 h2 {
-    font-family: bold;
-    font-size: 2.5em;
-    color: #a9a9a9;
+  font-family: bold;
+  font-size: 2.5em;
+  color: #a9a9a9;
 }
 
 h3 {
-    font-family: bold;
-    font-size: 1.5em;
-    color: #ff7f50;
-    letter-spacing: 0.5px;
-    text-decoration: underline;
+  font-family: bold;
+  font-size: 1.5em;
+  color: #ff7f50;
+  letter-spacing: 0.5px;
+  text-decoration: underline;
 }
 
 h4 {
-    font-family: bold;
-    font-size: 1.3em;
-    letter-spacing: 0.3px;
-    color: #666666;
+  font-family: bold;
+  font-size: 1.3em;
+  letter-spacing: 0.3px;
+  color: #666666;
 }
 
 dd p {
-    font-family: 'Catamaran', sans-serif;
+  font-family: 'Catamaran', sans-serif;
 }
 
 #education,
 #volunteer {
-    background-color: #caebf2;
+  background-color: #caebf2;
 }
 
 #education dd {
-    line-height: 0.1;
+  line-height: 0.1;
 }
 
 .skillbar {
-	position:relative;
-	display:inline-block;
-	margin:15px 0;
-	height:35px;
-	border-radius:3px;
-	width:100%;
+  position: relative;
+  display: inline-block;
+  margin: 15px 0;
+  height: 35px;
+  border-radius: 3px;
+  width: 100%;
 }
 
 .skillbar-title {
-	position:absolute;
+  position: absolute;
   font-family: light;
-	font-size:20px;
+  font-size: 20px;
   letter-spacing: 10px;
-	color: white;
-	padding:0 20px;
-	height:35px;
-	line-height:35px;
+  color: white;
+  padding: 0 20px;
+  height: 35px;
+  line-height: 35px;
   background-color: #666666;
 }
 
 .skillbar-bar {
-	height:35px;
-	background:#6adcfa;
-	display:inline-block;
+  height: 35px;
+  background: #6adcfa;
+  display: inline-block;
 }
 
 .coral {
-    background-color: #ff7f50;
+  background-color: #ff7f50;
 }
 
 .warm {
-    background-color: #caebf2;
+  background-color: #caebf2;
 }
 
 #contact {
-    background-color: #666666;
-    color: white;
+  background-color: #666666;
+  color: white;
 }
 
 #contact p {
@@ -137,26 +137,26 @@ dd p {
 }
 
 #contact img {
-    max-width: 50px;
-    padding: 5px 5px 0 0;
+  max-width: 50px;
+  padding: 5px 5px 0 0;
 }
 
 #contact a,
 #contact a:visited {
-    text-decoration: none;
-    color: white;
+  text-decoration: none;
+  color: white;
 }
 
 footer {
-    color: #a9a9a9;
-    font-family: bold;
-    font-size: 1.5em;
-    text-align: center;
+  color: #a9a9a9;
+  font-family: bold;
+  font-size: 1.5em;
+  text-align: center;
 }
 
 .type-it {
-    font-family: light;
-    font-size: 1em;
-    color: white;
-    letter-spacing: 2px;
+  font-family: light;
+  font-size: 1em;
+  color: white;
+  letter-spacing: 2px;
 }
