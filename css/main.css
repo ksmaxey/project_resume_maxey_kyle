@@ -179,6 +179,10 @@ footer {
   header {
     font-size: 0.75em;
   }
+
+  #education h4 {
+    font-size: 1em;
+  }
 }
 
 @media all and (min-width: 500px) {
