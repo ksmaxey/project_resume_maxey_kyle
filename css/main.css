@@ -218,7 +218,7 @@ footer {
   }
 }
 
-@media all and (min-width: 1150px) {
+@media all and (min-width: 1000px) {
   header {
     line-height: normal;
   }
@@ -226,6 +226,10 @@ footer {
   header h1 {
     float: left;
     display: inline-block;
+  }
+
+  .type-it {
+    font-size: 0.5em;
   }
 
   #logo {
@@ -243,6 +247,7 @@ footer {
     display: inline-block;
     width: 50%;
     float: right;
+    background-color: #caebf2;
   }
 
   #education {
@@ -252,7 +257,15 @@ footer {
   }
 
   #volunteer {
-    background-color: #efefef;
+    width: 495px;
+    display: inline-block;
+    background-color: #caebf2;
+  }
+
+  #skills {
+    width: 50%;
+    display: inline-block;
+    padding-bottom: 200px;
   }
 
   #contact {
