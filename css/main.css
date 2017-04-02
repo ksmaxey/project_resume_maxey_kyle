@@ -191,9 +191,6 @@ footer {
     max-width: 400px;
     display: block;
     margin: 0 auto;
-    -moz-box-shadow: 1px 5px 20px rgba(0, 0, 0, 0.5);
-    -webkit-box-shadow: 1px 5px 20px rgba(0, 0, 0, 0.5);
-    box-shadow: 1px 5px 20px rgba(0, 0, 0, 0.5);
   }
 }
 
