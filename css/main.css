@@ -175,9 +175,15 @@ footer {
   letter-spacing: 1px;
 }
 
+@media all and (min-width: 200px) {
+  header {
+    font-size: 0.75em;
+  }
+}
+
 @media all and (min-width: 500px) {
-  #logo {
-    max-width: 200px;
+  header {
+    font-size: 1em;
   }
 
   #me {
