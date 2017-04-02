@@ -15,7 +15,6 @@ body {
 
 .container {
   width: 100%;
-  padding: 10px;
 }
 
 @font-face {
@@ -60,10 +59,6 @@ header div {
 header div p {
   color: #c0c0c0;
   font-size: 1.5em;
-}
-
-article {
-  padding-bottom: 10px;
 }
 
 h2 {
@@ -138,7 +133,6 @@ dd p {
 #contact {
   background-color: #666666;
   color: white;
-  padding: 10px;
 }
 
 #contact p {
@@ -157,6 +151,14 @@ dd p {
 #contact a:visited {
   text-decoration: none;
   color: white;
+}
+
+#contact,
+#volunteer,
+#skills,
+#education,
+#work {
+  padding: 10px;
 }
 
 footer {
