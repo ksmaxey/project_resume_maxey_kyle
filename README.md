@@ -11,8 +11,8 @@
 # Resources
 
 * [jQueryScript.net](http://www.jqueryscript.net/chart-graph/Animated-Configurable-Skill-Bar-Plugin-with-jQuery-Skills-Bar.html)
-  * With this jQuery plugin, I was able to create a very nice skills slider bar to highlight my experience level with various skills.  I made a few adjustments from the original version however by removing the percentage values, changing the titles, and modifying the color scheme.* [Type It](http://macarthur.me/typeit/)
-  * With this plugin, I created the text that says "Please hire me!"  It is a very versatile plugin that I look forward to working with more in the future.  It is easily customizable and can type, backspace, and handle multiple lines of text using a single span tag within the HTML.
+  * With this jQuery plugin, I was able to create a very nice skills slider bar to highlight my experience level with various skills.  I made a few adjustments from the original version however by removing the percentage values, changing the titles, and modifying the color scheme.  The plugin can be viewed within the skills section of the site.* [Type It](http://macarthur.me/typeit/)
+  * With this plugin, I created the text that says "Please hire me!"  It is a very versatile plugin that I look forward to working with more in the future.  It is easily customizable and can type, backspace, and handle multiple lines of text using a single span tag within the HTML.  The plugin can be seen within the header of the page.
 
 * Aside from the above links, I did not use any resources outside of the lecture and my notes on this assignment.
     
