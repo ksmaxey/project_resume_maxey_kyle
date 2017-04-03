@@ -22,4 +22,6 @@ I reviewed the list of deductions for this project and in the syllabus.
 
 # Comments
 
+For my custom jQuery code, I wrote the code to create a rollover effect on my portrait element.  Using the mouseover event, I changed the image source to a black and white version on the photo.  Once the mouse leaves the image, I used the mouseout event to shift the image back to its original source.
+
 After this assignment, I feel much more comfortable using jQuery and media queries!  Looking forward to working on Final Part 3! _Thank You!_
